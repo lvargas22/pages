@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>About us</title>
+	</head>
+	
+	<body>
+		<h1>About_us.html<h1>
+		<nav>
+		<a href="home.html">Home</a><br>
+		<a href="about_us.html">About us</a><br>
+		<a href="news.html">News</a><br>
+		</nav>
+	</body>
+</html>
